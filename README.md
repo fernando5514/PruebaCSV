@@ -1,2 +1,2 @@
 # PruebaCSV
-Preuba para paserar un csv con OpenCSV
+Prueba para parsear un csv con OpenCSV
